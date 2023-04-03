@@ -7,7 +7,9 @@ type CityDataProps = {
 function CityData({ weatherData }: CityDataProps) {
   return (
     <div className="mt-5">
-      <h1 className="text-2xl mb-3">{weatherData.name}</h1>
+      <h1 className="text-2xl mb-3">
+        {weatherData.name}, {weatherData.sys.country}
+      </h1>
 
       <div className="flex gap-10">
         <div className="flex flex-col items-center">
