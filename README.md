@@ -1,2 +1,3 @@
 # weather-app-react
-<img width="947" alt="weather-app-react" src="https://user-images.githubusercontent.com/93333555/229361295-44e5036f-9059-4c0d-970f-0f271bb6294e.png">
+<img width="950" alt="weather-app-react" src="https://user-images.githubusercontent.com/93333555/229415246-4e890009-cfb1-4d91-83db-98a2e902acc0.png">
+
