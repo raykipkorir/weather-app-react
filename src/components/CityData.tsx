@@ -12,7 +12,7 @@ function CityData({ weatherData }: CityDataProps) {
       <div className="flex gap-10">
         <div className="flex flex-col items-center">
           <img
-            src={`http://openweathermap.org/img/w/${weatherData.weather[0].icon}.png`}
+            src={`https://openweathermap.org/img/w/${weatherData.weather[0].icon}.png`}
             alt=""
             height="100px"
             width="100px"
